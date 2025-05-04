@@ -1,4 +1,5 @@
-# Tiniercode
+![Font thumbnail](https://raw.githubusercontent.com/everloste/Tiniercode/refs/heads/main/thumbnail.png)
+
 Tiniercode is a tiny universal bitmap font.
 
 The font height is at a mere 6 pixels, making it perfect for tiny resolutions while remaining fully legible.
