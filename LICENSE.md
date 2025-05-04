@@ -1,8 +1,5 @@
 This Font Software is licensed under the SIL Open Font License, version 1.1.  
-This license is copied below, and is also available with a FAQ at:  
-https\://openfontlicense.org  
-
-&nbsp;
+This license is copied below, and is also available with a FAQ at: https\://openfontlicense.org  
 
 # SIL OPEN FONT LICENSE Version 1.1, 26 February 2007
 
